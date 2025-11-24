@@ -29,6 +29,7 @@ Welcome to my personal Data Analytics & Engineering Portfolio repository! Here y
 ### [Project 2 : OCD Patient Analysis](https://github.com/Rimsha-Bashir/OCD-Patient-Analysis)
 ### [Project 3 : Marine Microplastic : Spatio-temporal Analysis](https://github.com/Rimsha-Bashir/Marine-Microplastics-Analysis)
 ### [Project 4 : Greehouse Gases Emissions Analysis - End-to-End Pipeline](https://github.com/Rimsha-Bashir/GHG-Emissions-Analytics-Pipeline)
+### [Project 5 : Crop Yield Prediction - Machine Learning Project](https://github.com/Rimsha-Bashir/crop-yield-prediction)
 
 ## Project Details 
 
@@ -47,6 +48,10 @@ This project analyzes Spatial and Temporal Distribution of Microplastics in Mari
 ### Project 3 : Greehouse Gases Emissions Analytics Pipeline
 
 This project aims to develop and end-to-end pipeline for the ingestion, processing, and analysis of CO₂ & GHG emissions data to provide actionable insights for climate action.
+
+### Project 4 : Crop Yield Prediction - Machine Learning Project
+
+The goal is to develop a data-driven model that predicts crop yield (hectograms per hectare) using key environmental and agricultural features, identify which factors such as rainfall, temperature, and pesticide use most strongly influence yield outcomes, provide an easy-to-use REST API for generating predictions and supporting decision-making, and deliver a simple front-end application deployed on Hugging Face that allows users to access and interact with the model.
 
 ## Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at bashirrimsha22@gmail.com or connect with me on LinkedIn at Rimsha Bashir.
